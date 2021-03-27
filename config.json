@@ -1,0 +1,19 @@
+{
+    "token": "ODE0MDE5MTg4MTI0Mjg2OTk2.YD_Q2w.7eO1ZpIKVrrhB1pxvlIPBTLrlOQ",
+    "prefix": "$",
+    "webhooknames": ["1500 RUNS ALL", "1500 RUNS CORD", "CHIRAG PAPA OP"],
+    "webhookmessages": ["@everyone CHIRAG PAPA OP", "@everyone GET PROTECTION"],
+    "messagelogger": "false" ,
+    "message_edit_logger": "false",
+    "defualtcolor": "0x323333",
+    "nitrosniper": "enabled",
+    "channeln": ["CHIRAG PAPA OP", "CHIRAG PAPA OP", "CHIRAG PAPA OP"],
+    "servername": "CHIRAG PAPA OP",
+    "servericon": "LINK HERE",
+    "rolenames": ["CHIRAG PAPA OP", "CHIRAG PAPA OP"],
+    "rolecolors": ["743dc0", "49c03d", "cc1b1b", "151212", "f47fff", "d9643b", "a81e7f", "3522c9", "8e63df", "ff60f0", "584b1a", "7b83be", "4836eb", "53cde0", "502382", "0c9f39", "033938", "c6dcca", "0283d5", "f16911", "17b053", "bcdf01", "42066e", "b5e19a", "8da299", "f50b3e"],
+    "messagespam": ["CHIRAG PAPA OP @everyone", "@everyone SCHIRAG PAPA OP"],
+    "activity": "dnd",
+    "statustype": "STREAMING",
+    "status": "SAGAR OP"
+}
